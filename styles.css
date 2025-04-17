@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  background-color: #fffbe6;
+  text-align: center;
+  padding: 50px;
+}
+
+button {
+  background-color: #ffcc00;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  cursor: pointer;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+#story {
+  margin-top: 30px;
+  font-size: 1.2em;
+  color: #333;
+}
